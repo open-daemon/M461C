@@ -17,7 +17,7 @@ Most small AI models answer everything with the same confidence, even when they 
 | Final exam, never seen while building: harmless asks wrongly refused (of 60) | 0 | **6** |
 | Speed on a 2016 4 GB graphics card | ~19 tokens/s | ~19 tokens/s |
 
-The final exam was written in advance and run once, at the end, so it is the honest measure. The full report, with results and honest limits, is in [`paper/M461C-paper.md`](paper/M461C-paper.md).
+The final exam was written in advance and run once, at the end, so it is the honest measure. The full report, **[Senses on the Golden Gate is All You Need.](paper/M461C-paper.md)**, has the results and honest limits.
 
 ![Safer: all 13 harmful requests refused](paper/charts/4-safety.png)
 
