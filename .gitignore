@@ -1,0 +1,7 @@
+models/*.gguf
+engine/*.dll
+engine/*.exe
+logs/
+workspace/
+app/memory/
+app/conversations/
