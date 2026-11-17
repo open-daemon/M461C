@@ -1,4 +1,4 @@
-# The Senses in the Golden Gate Is All You Need!
+# Senses on the Golden Gate is All You Need.
 ## M461C: a small local AI that knows when it doesn't know
 
 *The title nods to "Attention Is All You Need" (Vaswani et al., 2017) and to Anthropic's "Golden Gate Claude" feature-steering demonstration (2024), which inspired this work. M461C is independent research, not affiliated with either.*
